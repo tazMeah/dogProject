@@ -3,6 +3,9 @@ body{
     margin: 0;
     Font-Family: 'Roboto Slab', Serif;
     Font-Size: 16px;
+    background: url(https://static.cdnbridge.com/resources/18/160536/picture/B7/86308023.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
 
 }
 
@@ -19,6 +22,7 @@ body{
 .button{
     display: flex;
     justify-content: center;
+;
 }
 p{
     text-align: center;
@@ -94,11 +98,7 @@ footer a {
         width: 70%;
         margin: 10px  auto;
     }
-    body {
-        background: url(https://static.cdnbridge.com/resources/18/160536/picture/B7/86308023.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
+    
 }
 
 
@@ -109,6 +109,7 @@ button {
     font-family: 'Roboto Slab', Serif;
     font-size: 16px;
     margin-top: 20px;
+    background-color:#dfccc1;
 }
 
 a {
