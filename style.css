@@ -34,6 +34,11 @@ h1{
     margin-bottom: 100px;
     Font-Family: 'Ruda', Sans-Serif;
     Font-Size: 48px;
+    background: rgba(223,204,193, .7);
+    margin: 0 20%;
+}
+h2 {
+    
 }
 
 section p {
@@ -115,6 +120,7 @@ a {
 header {
     display: flex;
     justify-content: space-between;
+    padding: 20px;
     
 
 }
